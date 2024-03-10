@@ -1,0 +1,28 @@
+{
+  "name": "bcl-tru",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính hiệu của 2 số. Đơn giản, dễ dùng và nhẹ",
+  "main": "tru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bucolap/bcl-tru.git"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "pheptru",
+    "tru",
+    "truhaiso"
+  ],
+  "author": "BCL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bucolap/bcl-tru/issues"
+  },
+  "homepage": "https://github.com/bucolap/bcl-tru#readme"
+}
